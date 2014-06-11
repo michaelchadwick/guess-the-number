@@ -1,6 +1,8 @@
 # Guess the Number
 
-**Guess the Number** is a simple command-line guessing game that is so old I'm sure the wheels have fallen off. Still, it's my first video game (of sorts), so yahoo!
+**Guess the Number** is a simple command-line guessing game that is so old in concept I'm sure the wheels have fallen completely off, rotted away, and mixed back in with the atmosphere.
+
+Still, it's my first video game (of sorts), so yahoo!
 
 ## Usage
 
