@@ -4,5 +4,5 @@
 require_relative 'guess'
 
 begin
-  Guess.new().play
+  Guess.new.play
 end
