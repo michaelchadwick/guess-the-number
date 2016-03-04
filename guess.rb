@@ -19,7 +19,7 @@ class Guess
 
   def play
     @correct_number = rand(@rand_range)
-    puts "number = #{@correct_number}"
+
     @guesses_remaining = GUESSES_MAX
     @guesses_count = 0
     player_success = false
