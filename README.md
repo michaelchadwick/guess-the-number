@@ -10,4 +10,10 @@ Still, it's my first video game (of sorts), so yahoo!
 ruby play-guess.rb
 ```
 
+Optional range for randomly-chosen correct answer can be supplied as a command line argument (defaults to 1-100)
+
+```
+ruby play-guess.rb 20 150
+```
+
 Good luck!
